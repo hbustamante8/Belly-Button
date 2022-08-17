@@ -5,6 +5,7 @@ The purpose of this project is to build an interactive dashboard to visualize th
 
 * Website link to interactive dashboard created: https://hbustamante8.github.io/Belly-Button/
 * Sample of website looks like below.
+
 ![Screen Shot 2022-04-08 at 12 37 37 AM](https://user-images.githubusercontent.com/96553992/185026103-367aded7-ccf6-42be-bde4-066b2d62cfac.png)
 
 
